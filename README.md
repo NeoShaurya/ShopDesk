@@ -11,12 +11,6 @@ Run the installer and launch ShopDesk directly from your desktop or start menu. 
 
 ---
 
-## 🛠️ Developer Setup (Running from Source)
-1. Install Python 3.11+ (tick "Add to PATH")
-2. `pip install -r requirements.txt`
-3. `python -m app.seed`   (optional demo data)
-4. `python main.py`
-
 ## First-time setup
 Open **Settings**: enter shop name/address/phone/GSTIN, choose the bill paper
 (A4, Thermal 80 mm, Thermal 58 mm), and tick "prices include GST" if that is how you price.
