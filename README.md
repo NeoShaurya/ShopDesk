@@ -1,3 +1,4 @@
+> **Notice:** This repository is source-available for demonstration and architectural inspection only. Copying the design, audio sprite mechanics, or deploying clones is strictly prohibited.
 # ShopDesk
 
 > Complete offline billing, inventory, GST invoicing, and accounting desktop application for retail & wholesale stores.
