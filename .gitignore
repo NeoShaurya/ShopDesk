@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.build_venv/
+
+# Build artifacts & PyInstaller
+build/
+dist/
+*.manifest
+*.spec.bak
+
+# Inno Setup output (the releases/ folder holds the committed setup file)
+installer_output/
+
+# Application runtime database and logs
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+*.log
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+
+# IDE and Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
